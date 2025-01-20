@@ -1,23 +1,19 @@
 # Sorteio de Amigo Secreto 🎁
 
-Este projeto é a solução para o **challenge de lógica de programação** proposto pela Alura e Oracle One. Ele consiste em criar um programa que permita inserir nomes de amigos, realizar um sorteio de Amigo Secreto e garantir uma experiência divertida e justa para todos os participantes!
+Este projeto é a solução para o **challenge de lógica de programação** proposto pela Alura e Oracle One. Ele consiste em criar um programa que permita inserir nomes de amigos, realizar um sorteio de Amigo Secreto!
 
 ---
 
 ## 🛠️ Funcionalidades
 
 - **Cadastro de Participantes**: Adicione uma lista de nomes para o sorteio.
-- **Sorteio Automático**: Realize o sorteio garantindo que:
-  - Ninguém tire a si mesmo.
-  - Cada participante receba e dê um presente para alguém.
-- **Exibição Segura**: Os resultados são exibidos de forma individual ou segura (evitando spoilers!).
+- **Sorteio**: Realize o sorteio clicando em um botão.
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Linguagem**: [Adicione a linguagem usada, ex: Python, Java, etc.]
-- **Ferramentas Adicionais** (se houver): [Exemplo: frameworks ou bibliotecas usadas.]
+- **Linguagem**: [HTML, CSS, JavaScript]
 
 ---
 
@@ -27,7 +23,6 @@ Este projeto foi desenvolvido para:
 
 1. Praticar lógica de programação.
 2. Trabalhar com listas, aleatoriedade e validação de dados.
-3. Garantir uma experiência interativa e divertida para os usuários.
 
 ---
 
@@ -94,6 +89,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE). Sinta-se à vontade 
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario). 😄
+Feito com ❤️ por [Luiz R. Bortolotti Jr.](https://github.com/crusaderMD). 😄
 
 
