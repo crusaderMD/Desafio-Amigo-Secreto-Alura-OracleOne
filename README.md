@@ -30,11 +30,11 @@ Este projeto foi desenvolvido para:
 
 1. **Clone este repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/crusaderMD/Desafio-Amigo-Secreto-Alura-OracleOne
    ```
 2. **Acesse a pasta do projeto**:
    ```bash
-   cd nome-do-repositorio
+   cd Desafio-Amigo-Secreto-Alura-OracleOne
    ```
 3. **Instale as dependências** (se aplicável):
    ```bash
