@@ -16,8 +16,8 @@ function adicionarAmigo(){
 }
 
 function limparNomeDoAmigoInserido(){
-    nomeDoAmigoInserido = document.querySelector('input');
-    nomeDoAmigoInserido.value = '';
+    let nomeInserido = document.querySelector('input');
+    nomeInserido.value = '';
 }
 
 function mostrarNomesDosAmigos(){
@@ -42,7 +42,7 @@ function sortearAmigo(){
     
     let amigoSorteado = amigos[indiceAleatorio];
 
-    if (!amigoSorteado || amigoSorteado.length == 0){
+    if (!amigoSorteado){
         return;
     }
 
