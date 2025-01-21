@@ -16,8 +16,8 @@ function adicionarAmigo(){
 }
 
 function limparNomeDoAmigoInserido(){
-    nomeDoAmigoInserido = document.querySelector('input');
-    nomeDoAmigoInserido.value = '';
+    let nomeInserido = document.querySelector('input');
+    nomeInserido.value = '';
 }
 
 function mostrarNomesDosAmigos(){
@@ -42,16 +42,21 @@ function sortearAmigo(){
     
     let amigoSorteado = amigos[indiceAleatorio];
 
-    if (!amigoSorteado || amigoSorteado.length == 0){
+    if (!amigoSorteado){
         return;
     }
 
-    mostrarAmigoSorteado(amigoSorteado);    
+    limparListaDeAmigos();
+
+    mostrarAmigoSorteado(amigoSorteado);
+}
+
+function limparListaDeAmigos(){
+    let listaDeAmigos = document.getElementById('listaAmigos');
+    listaDeAmigos.innerHTML = "";
 }
 
 function mostrarAmigoSorteado(nome){
-
-    listaAmigos.innerHTML = "";
     let nomeSorteado = document.getElementById('resultado');
     nomeSorteado.innerHTML = `<li>O amigo secreto sorteado é: ${nome}</li>`;
 }
