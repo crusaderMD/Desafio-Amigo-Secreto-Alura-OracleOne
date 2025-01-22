@@ -4,6 +4,10 @@ Este projeto é a solução para o **challenge de lógica de programação** pro
 
 ---
 
+🌐 [Deploy do projeto](https://desafio-amigo-secreto-alura-oracle-one.vercel.app)
+
+---
+
 ## 🛠️ Funcionalidades
 
 - **Cadastro de Participantes**: Adicione uma lista de nomes para o sorteio.
