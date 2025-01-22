@@ -66,14 +66,6 @@ Clique no botão "sortear amigo"
 
 ![Sorteando os amigos](assets/img_readme/amigo_sorteado.jpg)
 
-Após o sorteio:
-```text
-Maria -> João
-João -> Ana
-Ana -> Pedro
-Pedro -> Maria
-```
-
 ---
 
 ## 💡 Aprendizados
