@@ -41,7 +41,7 @@ function mostrarNomesDosAmigos(){
 // Sorteia aleatóriamente um nome no array de nomes
 function sortearAmigo(){
 
-    let indiceAleatorio;
+    let indiceAleatorio;    
     
     amigos.length == 0 ? alert('A lista de amigos está vazia') : indiceAleatorio = Math.floor(Math.random() * amigos.length);
     
