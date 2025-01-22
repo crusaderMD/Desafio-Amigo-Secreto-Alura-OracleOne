@@ -50,12 +50,22 @@ Este projeto foi desenvolvido para:
 ## 🔥 Exemplos de Uso
 
 ### Entrada:
-Adicione os participantes:
+Adicione os participantes escrevendo os nomes no campo e clicando em "adicionar":
 ```text
 Maria, João, Ana, Pedro
 ```
+![Adicionando os nomes dos participantes](assets/img_readme/inserção_de_nomes.jpg)
+
+Os nome adicionados aparecerão em uma lista abaixo do campo de inserção: 
+
+![Lista de nomes inseridos](assets/img_readme/lista_de_nomes.jpg)
 
 ### Saída:
+
+Clique no botão "sortear amigo"
+
+![Sorteando os amigos](assets/img_readme/amigo_sorteado.jpg)
+
 Após o sorteio:
 ```text
 Maria -> João
