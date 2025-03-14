@@ -60,7 +60,7 @@ Maria, João, Ana, Pedro
 ```
 ![Adicionando os nomes dos participantes](assets/img_readme/inserção_de_nomes.jpg)
 
-Os nome adicionados aparecerão em uma lista abaixo do campo de inserção: 
+Os nomes adicionados aparecerão em uma lista abaixo do campo de inserção: 
 
 ![Lista de nomes inseridos](assets/img_readme/lista_de_nomes.jpg)
 
